@@ -1,0 +1,22 @@
+{
+  "name": "codigo",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "codigo": "file:",
+    "dotenv": "^16.4.5",
+    "jsdom": "^24.1.1",
+    "jszip": "^3.10.1",
+    "node-fetch": "^3.3.2",
+    "telegraf": "^4.16.3"
+  }
+}
